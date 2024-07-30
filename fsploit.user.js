@@ -4,7 +4,7 @@
 // @version      2024-01-27
 // @description  best deeeep.io cheat ever
 // @run-at       document-start
-// @author       mahdi1337 & noam01 & .pi3141
+// @author       mahdi1337 & ghurb1337
 // @match        https://*.deeeep.io/*
 // @icon         https://beta.deeeep.io/favicon-32x32.png
 // @grant        GM_setValue
